@@ -1,0 +1,3 @@
+rep "Project Souls@Necro_san@cloud"
+  path "/"
+    smartbranch "/main"
